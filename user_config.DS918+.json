@@ -3,7 +3,8 @@
     "vid": "0x46f4",
     "pid": "0x0001",
     "sn": "1780PDN081100",
-    "mac1": "0011327B048D"
+    "mac1": "0011327B048D",
+    "mac2": "0011327B048E"
   },
   "synoinfo": {
     "supportsystemperature": "no",
